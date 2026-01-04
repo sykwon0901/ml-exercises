@@ -1,4 +1,4 @@
-# applied-ml-exercises
+# Machine Learning Execise(Notebook only)
 Hands-on machine learning exercises from Applied Data Science coursework
 # Applied Machine Learning Exercises
 
